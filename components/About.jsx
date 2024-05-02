@@ -10,8 +10,9 @@ const About = () => {
             <h1 className='text-3xl font-extrabold'>ABOUT PAUL DEV S  </h1>
         </div>
         <div className='text-xl'>
-        Hi I am   full-stack web developer passionate about creating engaging digital experiences. Proficient in front-end technologies like nextjs , tailwindcss, and JavaScript
-         ,typescript , coupled with back-end skills in Node.js and MongoDB, I am eager to contribute to innovative web projects. Let's collaborate and bring ideas to life
+        {/* Hi I am   full-stack web developer passionate about creating engaging digital experiences. Proficient in front-end technologies like nextjs , tailwindcss, and JavaScript
+         ,typescript , coupled with back-end skills in Node.js and MongoDB, I am eager to contribute to innovative web projects. Let's collaborate and bring ideas to life */}
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae inventore aspernatur, nulla doloremque placeat consequuntur facilis. Iusto asperiores eligendi tempora laborum porro consectetur accusamus ad ipsum voluptas sint. Blanditiis, quae!
         </div>
     </section>
   )

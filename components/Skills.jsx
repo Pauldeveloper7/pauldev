@@ -5,7 +5,7 @@ const Skills = () => {
   return (
     <section className='w-[80%]  rounded-md bg-[#8A8582] flex flex-col gap-10 item-center justify-center text-center m-auto relative top-10 '>
         <div>
-            <h1 className='text-3xl font-extrabold pt-6'>ABOUT PAUL DEV’S  </h1>
+            <h1 className='text-3xl font-extrabold pt-6'>Skills </h1>
         </div>
         <div className='flex  gap-5 '>
        <div className=" m-auto flex gap-5 flex-col justify-center items-center">

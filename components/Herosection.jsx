@@ -20,7 +20,7 @@ const Herosection = () => {
 
       </div>
       <div className="ml-5">
-        <Image src={"images/mypicture.svg"} alt="my photgraph" width={224} height={428} />
+        <Image src={"images/mypicture.svg"} alt="my photgraph" width={324} height={528} />
       </div>
     </section>
   );
